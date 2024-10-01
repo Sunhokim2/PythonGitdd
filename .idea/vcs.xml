@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/PongGame" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SnakeGame" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SnakeGame/pythonProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apiTest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/password-manage-sys" vcs="Git" />
+  </component>
+</project>
